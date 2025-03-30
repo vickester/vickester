@@ -8,6 +8,7 @@ Hi, I’m Victoria! I’m a passionate developer with a knack for creating effic
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/victoria-andersson-436916114).
 ## Tools I Use
 <p align="left">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="30" height="30"/>
